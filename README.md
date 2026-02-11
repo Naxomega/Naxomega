@@ -1,6 +1,6 @@
 Hi, I'm Naxomega (or Naxoméga if you're French like me...)\
 I'm a French guy\
-I like Tech and Video-Games (my favs video-games are Beat Saber, Zelda TOTK and Sonic Frontiers)\
+I like Tech and Video-Games (my favs video-games are Zelda TOTK, Metroid Prime 4 and Portal 2)\
 Irl, i'm quiet, I don't annoy other people (on purpose)...\
 And, that's it (I think...)
 
