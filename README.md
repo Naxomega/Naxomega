@@ -1,7 +1,7 @@
 Hi, I'm Naxomega (or Naxoméga if you're French like me...)\
 My First Name is Arthur (yes a very frenchy name)\
-I'm currently a student in "Bac Pro CIEL" and (I hope) a future student in "BTS CIEL"\
-Here you will find some of my personal projects (aka: what I'd like to do at school)\
+I'm currently a student in "BTS CIEL"\
+Here you will find some of my personal projects\
 I usually use Python for all my apps but I'd like to learn C++ to create "real" apps\
 I do like technology and IT and I really want to work in these domains.\
 Hobbies : Create apps and other stuff (like I said earlier), playing video games just like everyone else, and creating some videos and live streams.
